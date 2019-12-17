@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 Testing out this shit.	
 
-![Animesh Venice](../_images/animesh_venice.jpg)
+![Animesh Venice](_images/animesh_venice.jpg)
