@@ -6,6 +6,4 @@ categories: jekyll update
 ---
 Testing out this shit.	
 
-<img src="animesh_venice.jpg"
-     alt="animesh_venice"
-     style="float: left; margin-right: 10px;" />
+![Animesh Venice](animesh_venice.jpg)
