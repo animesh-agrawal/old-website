@@ -1,8 +1,8 @@
 # Site Settings
-title: Midnight Book Club
+title: Animesh's World
 email:
-description: > 
-    Welcome to Midnight Book Club
+description: >
+    Welcome to the world of Animesh
 baseurl: ""
 url: "http://localhost:4000"
 # Build Settings

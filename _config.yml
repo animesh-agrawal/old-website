@@ -1,10 +1,10 @@
 # Site Settings
-title: Midnight Book Club
+title: Animesh's World
 email:
 description: > 
-    Welcome to Midnight Book Club
+    Welcome to the world of Animesh
 baseurl: ""
-url: "www.midnightbook.club"
+url: ""
 # Build Settings
 sass:
   sass_dir: _sass
